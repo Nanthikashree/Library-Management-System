@@ -40,6 +40,8 @@ Specifying the context and requirements of a system
 
 
 
+<img width="687" height="742" alt="image" src="https://github.com/user-attachments/assets/c843c952-c7ef-4717-9ad8-5d5873428718" />
+
 
 
 
