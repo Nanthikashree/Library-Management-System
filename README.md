@@ -102,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="712" height="772" alt="image" src="https://github.com/user-attachments/assets/1217b502-84f8-4adf-8c65-401da9e18d9a" />
 
 
 
@@ -111,6 +112,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="987" height="718" alt="image" src="https://github.com/user-attachments/assets/4bddb4e0-9121-4160-9397-bb305334c805" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
