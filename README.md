@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040274
+# Name:Nanthikashree T
+# Date:31/07/2026
 
 
 # AIM:
